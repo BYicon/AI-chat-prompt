@@ -1,2 +1,2 @@
 # AI-chat-prompt
-some prompt
+some prompts
